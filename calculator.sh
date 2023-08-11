@@ -8,4 +8,8 @@ a = 14+16
 
 b = 10-5
 
+#multiplication_function
+
+c = 10*74
+
 
